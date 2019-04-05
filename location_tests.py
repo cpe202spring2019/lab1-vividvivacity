@@ -1,6 +1,8 @@
 import unittest
 from location import *
 
+#will add more cases later
+
 class TestLab1(unittest.TestCase):
 
     def test_repr(self):
