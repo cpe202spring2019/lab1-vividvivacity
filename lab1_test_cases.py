@@ -1,8 +1,6 @@
 import unittest
 from lab1 import *
 
-#will add more cases later
- # A few test cases.  Add more!!!
 class TestLab1(unittest.TestCase):
 
     def test_max_list_iter(self):
